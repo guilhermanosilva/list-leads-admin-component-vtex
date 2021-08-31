@@ -1,0 +1,11 @@
+{
+  "section": "customer",
+  "titleId": "admin-corebiz.navigation.label",
+  "searchKeyWordsHelpers": "admin-corebiz.navigation.search.kws",
+  "subSectionItems": [
+    {
+      "labelId": "admin-corebiz.navigation.insight",
+      "path": "/admin/leads-info"
+    }
+  ]
+}

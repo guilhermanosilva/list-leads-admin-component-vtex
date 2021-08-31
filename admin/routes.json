@@ -1,0 +1,6 @@
+{
+  "admin.app.example": {
+    "component": "adminPage",
+    "path": "/admin/app/leads-info"
+  }
+}
