@@ -1,5 +1,6 @@
 {
   "section": "customer",
+<<<<<<< HEAD
   "titleId": "admin-corebiz.navigation.label",
   "searchKeyWordsHelpers": "admin-corebiz.navigation.search.kws",
   "subSectionItems": [
@@ -8,4 +9,13 @@
       "path": "/admin/leads-info"
     }
   ]
+=======
+  "titleId": "admin-example.navigation.label",
+  "searchKeyWordsHelpers": "admin-example.navigation.search.kws",
+  "subSectionItems": [{
+    "labelId": "admin-example.navigation.insight",
+    "path": "/admin/iotraining"
+  }
+]
+>>>>>>> 4495d902b607ae780b83cc1d150d98b73e3d7287
 }
